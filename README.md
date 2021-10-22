@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Joan-Miquel-Alfonso
+- 👀 I’m interested in Data science
+- 🌱 I’m currently learning Python/R/BASH
